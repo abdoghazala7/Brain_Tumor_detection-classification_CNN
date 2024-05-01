@@ -1,0 +1,2 @@
+# Brain_Tumor_detection-classification_CNN
+Convolutional Neural Networks/Transfer learning/Data augmentation
