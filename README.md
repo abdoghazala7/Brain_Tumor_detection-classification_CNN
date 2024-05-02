@@ -41,4 +41,4 @@ pituitary: 1457
 # Conclusion:
 Transfer learning, combined with data augmentation, is an effective approach for brain tumor classification. The project demonstrates the importance of selecting appropriate pre-trained models, fine-tuning strategies, and data augmentation techniques to achieve accurate and reliable classification results.
 
-## Here are the datasets used and all the models trained: https://drive.google.com/drive/folders/1B6amPzGYuBScGl2G3ph1uH5U66CTfPrZ
+## Here there is  datasets used and all the models trained: https://drive.google.com/drive/folders/1B6amPzGYuBScGl2G3ph1uH5U66CTfPrZ
