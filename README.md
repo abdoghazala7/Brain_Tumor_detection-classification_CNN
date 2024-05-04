@@ -21,9 +21,9 @@ pituitary: 1457
 ># `Key Steps:` 
 >- `1.Data Exploration:` The dataset consists of images categorized into training and testing sets for each tumor type. The distribution of data across classes is visualized to understand the dataset's composition.
 >
->- `2.Data Exploration:`Data Preprocessing: Image data is loaded using TensorFlow's image_dataset_from_directory function. Preprocessing steps include resizing images, splitting data into training and validation sets, and applying one-hot encoding to labels.
+>- `2.Data Preprocessing:`Data Preprocessing: Image data is loaded using TensorFlow's image_dataset_from_directory function. Preprocessing steps include resizing images, splitting data into training and validation sets, and applying one-hot encoding to labels.
 >
->- `3.Data Exploration:`Model Selection: Several pre-trained CNN models, including DenseNet121, VGG16, ResNet50V2, MobileNetV2, EfficientNetV2S, and Xception, are selected for transfer learning. These models are imported from TensorFlow's applications module.
+>- `3.Model Selection:`Model Selection: Several pre-trained CNN models, including DenseNet121, VGG16, ResNet50V2, MobileNetV2, EfficientNetV2S, and Xception, are selected for transfer learning. These models are imported from TensorFlow's applications module.
 >
 >- `4.Fine-Tuning:` The selected pre-trained models are fine-tuned on the brain tumor dataset. The top layers are adapted to the new task, while earlier layers are frozen to retain the pre-trained features.
 >
