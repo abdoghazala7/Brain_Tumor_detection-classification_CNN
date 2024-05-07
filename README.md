@@ -34,9 +34,9 @@ pituitary: 1457
 ># `Results:`
 >- The VGG16 model achieved the highest accuracy of 97.64% on the testing dataset.
 >
->- Confusion matrices and classification reports provide detailed insights into the model's performance for each tumor type.
+>- The accuracy with applay Preprocessing was better without it .
 >
->- Data augmentation improved model robustness and generalization capabilities, leading to better performance on unseen data.
+>- Data augmentation improved model robustness and generalization capabilities, leading to better performance and accuracy >> 98.8%.
 
 # Conclusion:
 Transfer learning, combined with data augmentation, is an effective approach for brain tumor classification. The project demonstrates the importance of selecting appropriate pre-trained models, fine-tuning strategies, and data augmentation techniques to achieve accurate and reliable classification results.
